@@ -1,6 +1,23 @@
 # codeApp Frontend
 
 Welcome to the frontend of **codeApp**, a state-of-the-art competitive programming and code editor platform. Built with **React 19**, **Vite**, **Redux Toolkit**, and **Tailwind CSS v4**, the application delivers a premium, responsive user experience similar to LeetCode.
+---
+
+## 📸 Screenshots
+
+Here is a preview of the **codeApp** user interface:
+
+| Homepage / Problem Dashboard | Login Page |
+| :---: | :---: |
+| ![Homepage](photos/Screenshot%202026-06-20%20164514.png) | ![Login Page](photos/Screenshot%202026-06-20%20164538.png) |
+
+| Signup Page | Admin Panel |
+| :---: | :---: |
+| ![Signup Page](photos/Screenshot%202026-06-20%20164604.png) | ![Admin Panel](photos/Screenshot%202026-06-20%20164623.png) |
+
+| Coding Workspace & AI Chat |
+| :---: |
+| ![Coding Workspace & AI Chat](photos/Screenshot%202026-06-20%20164700.png) |
 
 ---
 
