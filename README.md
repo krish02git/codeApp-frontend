@@ -7,11 +7,11 @@ Welcome to the frontend of **codeApp**, a state-of-the-art competitive programmi
 
 Here is a preview of the **codeApp** user interface:
 
-| ![Homepage](photos/Screenshot%202026-06-20%20164514.png) | ![Login Page](photos/Screenshot%202026-06-20%20164538.png) |
-
-| ![Signup Page](photos/Screenshot%202026-06-20%20164604.png) | ![Admin Panel](photos/Screenshot%202026-06-20%20164623.png) |
-
-| ![Coding Workspace & AI Chat](photos/Screenshot%202026-06-20%20164700.png) |
+![Homepage](photos/Screenshot%202026-06-20%20164514.png) 
+![Login Page](photos/Screenshot%202026-06-20%20164538.png) 
+![Signup Page](photos/Screenshot%202026-06-20%20164604.png) 
+![Admin Panel](photos/Screenshot%202026-06-20%20164623.png) 
+![Coding Workspace & AI Chat](photos/Screenshot%202026-06-20%20164700.png) 
 
 ---
 
